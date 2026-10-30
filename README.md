@@ -1,9 +1,4 @@
-Python Case Studies -- 10 Beginner-Friendly Solutions
-Overview
-This repository contains 10 Python case studies designed for
-beginners. Each case study includes a problem statement, objectives,
-assumptions, algorithm, flowchart sequence, pseudocode, Python source
-code, and test cases.
+
 
 The programs use introductory Python concepts such as: - Variables and
 data types - Operators and conditional statements - Loops - Strings and
@@ -106,17 +101,4 @@ python filename.py
 Replace filename.py with the name of the Python file you want to
 execute.
 Testing
-Each case study in the source document includes sample test cases and
-expected results. Run the programs with the sample inputs and compare
-the output with the expected results.
-Learning Outcomes
-After completing these case studies, beginners can practise: - Working
-with lists, nested lists, and tuples. - Using loops and conditional
-statements to process records. - Validating input data and identifying
-errors. - Performing calculations involving totals, percentages, fines,
-and shortages. - Applying basic Python programming to everyday
-situations.
-Source
-Prepared from the document Python Case Studies -- 10 Complete
-Beginner-Friendly Solutions, based on an assigned introductory Python
-syllabus.
+
